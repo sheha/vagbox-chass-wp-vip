@@ -1,0 +1,6 @@
+/content/themes/vip/chivecommon-*
+/.vagrant
+/logs
+.DS_Store
+/.idea
+/phpmyadmin
